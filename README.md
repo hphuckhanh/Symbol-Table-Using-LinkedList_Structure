@@ -1,5 +1,5 @@
 # Symbol-Table-Using-LinkedList_Structure
-##Introduction
+## Introduction
 Symbol table is a crucial data structure, made and maintained by compilers to trace semantics
 of identifiers (e.g information about name, type, scope, e.t.c).
 
